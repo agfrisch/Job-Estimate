@@ -1,2 +1,3 @@
 # Job-Estimate
-Cost estimator
+Paint Job Estimator Program from W.N.C.C. C.S.
+Good barebones cost estimator program based on multiple variables.
